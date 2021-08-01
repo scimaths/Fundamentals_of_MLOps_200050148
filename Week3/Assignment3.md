@@ -16,4 +16,4 @@ This means that things related to DVC couldn't be implemented because of absence
 
 
 ### Update on 1st August
-I retried training a complete model and that can be accessed in the file named "utility.ipynb" [here](https://github.com/scimaths/MLOps_Assignment.git), although problems were faced while trying to tune and blend models after loading them from pkl files.
+I retried training a complete model and that can be accessed in the file named "utility.ipynb" [here](https://github.com/scimaths/MLOps_Assignment/tree/pycaret_expt_3), although problems were faced while trying to tune and blend models after loading them from pkl files.
