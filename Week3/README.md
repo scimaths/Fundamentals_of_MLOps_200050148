@@ -13,3 +13,7 @@ This means that things related to DVC couldn't be implemented because of absence
 
 ## Confusion Matrix (Pre-tuning)
 ![image](https://user-images.githubusercontent.com/74496363/126691246-d9ef5af6-1933-47da-ac89-a4398d715bbe.png)
+
+
+### Update on 1st August
+I retried training a complete model and that can be accessed in the file named "utility.ipynb" (here)[https://github.com/scimaths/MLOps_Assignment.git]
